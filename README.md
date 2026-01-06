@@ -13,24 +13,38 @@ I enjoy working on **end-to-end ML pipelines** — from data cleaning and featur
 
 ---
 
-## 🛠️ Tech Stack :-
+## 🧰 Tech Stack
 
-**Languages**
-- 🐍 Python (Core, DSA)
-- 🗄️ SQL
-- 🌐 HTML5, CSS, JavaScript
+### 💻 Programming & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Libraries & Frameworks**
-- NumPy, Pandas, Scikit-learn
-- Matplotlib
-- Flask, Jinja2, Bootstrap
-- Streamlit
 
-**Tools & Platforms**
-- Git & GitHub
-- Jupyter Notebook, Google Colab
-- SQLite (programmatic DB creation)
-- IBM Cloud
+
+### 🤖 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+
+
+### 🌐 Backend & Deployment
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 ---
 
@@ -152,6 +166,12 @@ An AI-powered web application that generates **personalized workout and diet pla
 - Building structured Flask-based systems  
 - Strengthening DSA and backend fundamentals  
 - Preparing for internships and technical interviews  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agnihotrigaurav22&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agnihotrigaurav22&layout=compact)
 
 ---
 
